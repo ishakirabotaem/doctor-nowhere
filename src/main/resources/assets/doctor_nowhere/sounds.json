@@ -1,0 +1,30 @@
+{
+  "entity.the_locust.ambient": {
+    "sounds": [
+      {
+        "name": "doctor_nowhere:ambient1",
+        "stream": false
+      },
+      {
+        "name": "doctor_nowhere:ambient2",
+        "stream": false
+      }
+    ]
+  },
+  "entity.boiled_one.talk": {
+    "sounds": [
+      {
+        "name": "doctor_nowhere:boiledone",
+        "stream": false
+      }
+    ]
+  },
+  "entity.guilt.talk": {
+    "sounds": [
+      {
+        "name": "doctor_nowhere:thebath",
+        "stream": false
+      }
+    ]
+  }
+}

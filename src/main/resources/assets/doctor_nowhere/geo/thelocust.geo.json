@@ -1,0 +1,53 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.thelocust",
+				"texture_width": 256,
+				"texture_height": 256,
+				"visible_bounds_width": 6,
+				"visible_bounds_height": 21.5,
+				"visible_bounds_offset": [0, 10.25, 0]
+			},
+			"bones": [
+				{
+					"name": "TheLocust",
+					"pivot": [0, 0, 0]
+				},
+				{
+					"name": "body",
+					"parent": "TheLocust",
+					"pivot": [3, 122, -1],
+					"cubes": [
+						{"origin": [-39, 0, -1], "size": [84, 244, 0], "uv": [1, 0]}
+					]
+				},
+				{
+					"name": "head",
+					"parent": "TheLocust",
+					"pivot": [1, 284, -1],
+					"cubes": [
+						{"origin": [-21, 244, -1], "size": [44, 80, 0], "uv": [168, 0]}
+					]
+				},
+				{
+					"name": "face",
+					"parent": "TheLocust",
+					"pivot": [1, 294, -1.5],
+					"cubes": [
+						{"origin": [-8, 283, -1.5], "size": [18, 22, 0], "uv": [170, 81]}
+					]
+				},
+				{
+					"name": "mouth",
+					"parent": "TheLocust",
+					"pivot": [0, 282, -1.25],
+					"cubes": [
+						{"origin": [-6, 277, -1.25], "size": [12, 10, 0], "uv": [169, 103]}
+					]
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,11 @@
+{
+  "entity.doctor_nowhere.boiled_one": "Boiled One",
+  "subtitles.entity.boiled_one.talk": "",
+  "item.doctor_nowhere.boiled_one_spawn_egg": "Boiled One Spawn Egg",
+  "entity.doctor_nowhere.the_locust": "The Locust",
+  "entity.doctor_nowhere.guilt": "Guilt",
+  "subtitles.entity.the_locust.ambient": "",
+  "item.doctor_nowhere.the_locust_spawn_egg": "The Locust Spawn Egg",
+  "item.doctor_nowhere.guilt_spawn_egg": "Guilt Spawn Egg",
+  "subtitles.entity.guilt.talk": ""
+}

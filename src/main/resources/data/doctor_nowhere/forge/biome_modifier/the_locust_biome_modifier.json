@@ -1,0 +1,12 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": {
+    "type": "forge:any"
+  },
+  "spawners": {
+    "type": "doctor_nowhere:the_locust",
+    "weight": 40,
+    "minCount": 1,
+    "maxCount": 1
+  }
+}
