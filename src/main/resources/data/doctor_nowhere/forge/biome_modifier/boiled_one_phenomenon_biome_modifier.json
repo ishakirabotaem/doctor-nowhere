@@ -4,8 +4,8 @@
     "type": "forge:any"
   },
   "spawners": {
-    "type": "doctor_nowhere:the_locust",
-    "weight": 80,
+    "type": "doctor_nowhere:boiled_one_phenomenon",
+    "weight": 10,
     "minCount": 1,
     "maxCount": 1
   }

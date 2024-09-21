@@ -1,21 +1,21 @@
 modLoader="javafml"
-loaderVersion="[43,)"
+loaderVersion="[47,)"
 license="Academic Free License v3.0"
 
 [[mods]]
 modId="doctor_nowhere"
-version="1.1.0"
+version="1.6.0"
 displayName="Doctor Nowhere mod"
-credits="made by ishakirabotaem"
-displayURL="https://mcreator.net"
+displayURL="https://modrinth.com/mod/doctor-nowhere"
 logoFile="logo.png"
+credits="made by ishakirabotaem"
 authors="ishakirabotaem"
 description="Adds doctor nowhere's creatures."
 
 [[dependencies.doctor_nowhere]]
     modId="minecraft"
     mandatory=true
-    versionRange="[1.19.2]"
+    versionRange="[1.20.1]"
     ordering="NONE"
     side="BOTH"
 
