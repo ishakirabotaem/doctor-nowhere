@@ -1,5 +1,5 @@
 ## WORK IN PROGRESS
-![doctor nowhere](https://cdn.modrinth.com/data/cached_images/9a35f6ad00035361476c2d858407c9b29fb14304.png)
+![Doctor](https://github.com/user-attachments/assets/49e8cba2-e5c3-4389-b6f5-4806a07c2d46)
 # 📄 About:
 This mod like all other horror mods adds dwellers who want to kill the player. But I assure you that they are not so boring!
 
